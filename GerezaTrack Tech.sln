@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GerezaTrack Tech", "GerezaTrack Tech\GerezaTrack Tech.vbproj", "{0A67E571-E347-41C2-914D-37BC6D7C47A2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GerezaTrackSetup", "GerezaTrackSetup\GerezaTrackSetup.vdproj", "{C7DA1F26-6D55-42F5-ABBB-605759CA0732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A67E571-E347-41C2-914D-37BC6D7C47A2}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0A67E571-E347-41C2-914D-37BC6D7C47A2}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0A67E571-E347-41C2-914D-37BC6D7C47A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A67E571-E347-41C2-914D-37BC6D7C47A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DA1F26-6D55-42F5-ABBB-605759CA0732}.Debug|Any CPU.ActiveCfg = Release
+		{C7DA1F26-6D55-42F5-ABBB-605759CA0732}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E979A630-97D2-46F4-93E4-96577C3865D3}
+	EndGlobalSection
+EndGlobal
